@@ -25,4 +25,4 @@ Foram utilizadas as seguintes tecnologias para desenvolvimento da aplicação:
 - H2(Product-Catalog)
 - Spring Boot 
 
-Por: Daniel Machado
+Por: Daniel Machado.
